@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Report")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Report")>
+<Assembly: AssemblyDescription(".Net Report tool")>
+<Assembly: AssemblyCompany("RayaTahan")>
+<Assembly: AssemblyProduct("RayaTahan.Report")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("RayaTahan.IR")>
 
 <Assembly: ComVisible(False)>
 
