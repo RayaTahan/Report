@@ -1,9 +1,14 @@
 ﻿# RayaTahan.Report
-ابزار ایجاد گزارش برای پروژه‌های دات‌نت  
+ابزار ایجاد گزارش برای پروژه‌های دات‌نت 
+
 ## نصب
-برای استفاده از این ابزار می‌توانید از طریق نصب ناگت آن اقدادم کنید.   
-	PM> Install-Package RayaTahan.Report
-## استفاده  
+برای استفاده از این ابزار می‌توانید از طریق نصب ناگت آن اقدادم کنید.
+
+    PM> Install-Package RayaTahan.Report
+
+    
+## استفاده 
+
 	Dim CustomCSS As String = "h2 {color:#405060}"
 	Dim AllPages As String = ""
 	AllPages += RayaTahan.Report.HTMLParser.GeneratePage("<h2>عنوان الف</h2>")
