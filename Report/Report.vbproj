@@ -7,7 +7,7 @@
     <ProjectGuid>{D978DA9E-DA73-4C83-A376-256F1B78D802}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>RayaTahan.Report</RootNamespace>
-    <AssemblyName>Report</AssemblyName>
+    <AssemblyName>RayaTahan.Report</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -18,7 +18,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Report.xml</DocumentationFile>
+    <DocumentationFile>RayaTahan.Report.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -27,7 +27,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Report.xml</DocumentationFile>
+    <DocumentationFile>RayaTahan.Report.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
