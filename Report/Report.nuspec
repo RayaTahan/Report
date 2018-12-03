@@ -8,9 +8,10 @@
     <owners>$author$</owners>
     <licenseUrl>https://github.com/RayaTahan/Report/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/RayaTahan/Report</projectUrl>
+    <iconUrl>https://avatars0.githubusercontent.com/u/41860832</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Ver 1.0.0</releaseNotes>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>.Net Report HTML</tags>
   </metadata>
